@@ -1,5 +1,6 @@
 {
-  "name": "shopping_cart",
+  "name": "shopping-cart",
+  "homepage": "https://your-username.github.io/shopping-cart",
   "private": true,
   "version": "0.0.0",
   "type": "commonjs",

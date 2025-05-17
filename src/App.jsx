@@ -8,7 +8,7 @@ import { CartProvider } from "./context/CartContext";
 function App() {
   return (
     <CartProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/shopping-cart">
         <Routes>
           <Route element={<MainLayout />}>
             <Route path="/" element={<Home />} />
