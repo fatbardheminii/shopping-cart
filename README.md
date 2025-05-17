@@ -9,7 +9,7 @@ Check out the live demo: [Shopping Cart Demo](https://fatbardheminii.github.io/s
 ## Installation
 
 Clone the repository and install dependencies:
-git clone https://github.com/your-username/shopping-cart.git
+git clone https://github.com/fatbardheminii/shopping-cart.git
 cd shopping-cart
 npm install
 
