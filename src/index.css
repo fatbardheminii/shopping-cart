@@ -121,10 +121,8 @@ body {
 }
 
 .home {
-  max-height: calc(100vh - 70px - 70px);
   display: flex;
   flex-direction: column;
-  overflow: auto;
 }
 
 @media (max-width: 768px) {
